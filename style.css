@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(rgb(164, 133, 231), rgb(193, 119, 197), rgb(212, 68, 68));
+}
+
+img{
+    float: left;
+    padding-right: 50px;
+}
+
+table, th, td {
+    border: 1px solid rgb(80, 79, 79);
+    width: 100%;
+    text-align: center;
+    table-layout: fixed;
+  }
+
+  button{
+    padding: 15px 32px;
+    text-align: center;      
+    background-color: red;
+    color: white;
+    margin: 4px 2px;
+    justify-content: center;
+}
